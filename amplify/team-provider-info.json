@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "beckhoff-demo-dev-20190520100828-authRole",
+            "UnauthRoleArn": "arn:aws:iam::378072147349:role/beckhoff-demo-dev-20190520100828-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::378072147349:role/beckhoff-demo-dev-20190520100828-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "beckhoff-demo-dev-20190520100828-deployment",
+            "UnauthRoleName": "beckhoff-demo-dev-20190520100828-unauthRole",
+            "StackName": "beckhoff-demo-dev-20190520100828",
+            "StackId": "arn:aws:cloudformation:eu-west-1:378072147349:stack/beckhoff-demo-dev-20190520100828/11ee43b0-7ace-11e9-88a3-06e26620325a"
+        }
+    }
+}

@@ -19,8 +19,28 @@
   color: white;
 }
 
+.poplatekLogo {
+  background-size: 30px 30px !important;
+}
+
+.bg-beckhoff {
+  background-color: #282c34 !important
+}
+
 .App-link {
   color: #61dafb;
+}
+
+.relay-label {
+  padding: 0px 10px 0px 10px
+}
+
+.color-green {
+  background-color: green !important
+}
+
+.color-grey {
+  background-color: grey !important
 }
 
 @keyframes App-logo-spin {

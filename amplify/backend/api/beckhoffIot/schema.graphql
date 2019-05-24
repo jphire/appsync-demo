@@ -1,0 +1,9 @@
+type Data @model {
+  id: ID!
+  name: String!
+  voltage: Float
+  current: Float
+  activePower: Float
+  energy: Float
+  relay: Boolean
+}
