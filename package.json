@@ -11,7 +11,6 @@
     "react": "^16.8.6",
     "react-d3-speedometer": "^0.5.5",
     "react-dom": "^16.8.6",
-    "react-gauge-chart": "file:../../react-gauge-chart",
     "react-scripts": "3.0.1",
     "reactstrap": "^8.0.0",
     "typescript": "^3.4.5"
